@@ -38,7 +38,6 @@ class ExampleApp extends Component {
                   resizeMode={'contain'}
                   style={{width: 300, height: 300}}
                   source={{uri: data}}
-                  
                 />
               </View>
             }
