@@ -6,7 +6,7 @@ import ReactNative, {
   View, Text, Modal, Platform, Alert
 } from 'react-native';
 
-import SignatureCapture from 'react-native-signature-capture';
+import SignatureCapture from 'react-native-scratch-view';
 
 const toolbarHeight = Platform.select({
   android: 0,
